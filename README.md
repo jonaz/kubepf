@@ -2,6 +2,12 @@
 interactive client to proxy to a pod in kubernetes cluster
 It will take first available port after 8080 on localhost and then open the browser. 
 
+### Installation
+
+```
+github.com/jonaz/kubepf
+```
+
 ### Usage
 ```
 kubepf -h
