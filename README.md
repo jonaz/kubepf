@@ -5,7 +5,7 @@ It will take first available port after 8080 on localhost and then open the brow
 ### Installation
 
 ```
-github.com/jonaz/kubepf
+go get -u github.com/jonaz/kubepf
 ```
 
 ### Usage
